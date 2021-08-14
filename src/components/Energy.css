@@ -1,0 +1,10 @@
+.result-wrapper {
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    /* background-color: bisque; */
+    /* color: white; */
+    flex: 1;
+}
